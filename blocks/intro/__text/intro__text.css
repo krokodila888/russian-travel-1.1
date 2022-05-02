@@ -1,0 +1,10 @@
+.intro__text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 163%;
+  min-height: 208px;
+  max-width: 690px;
+  padding-top: 40px;
+  padding-bottom: 33px;
+  display: flex;
+}
