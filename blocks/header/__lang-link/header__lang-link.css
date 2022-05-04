@@ -4,17 +4,11 @@
   font-weight: 400;
   color: #FFFFFF;
   padding-right: 18px;
-  border-bottom: #FFFFFF;
+  text-decoration-color: #2A2C2F;
 }
 
 .header__lang-link:hover {
   opacity: 0.8;
-}
-
-.header__lang-link:last-of-type {
-  padding-right: 0;
-  border-bottom: none;
-  text-decoration: none;
 }
 
 @media screen and (max-width: 767px) {
