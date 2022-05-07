@@ -1,0 +1,11 @@
+.header__lang-link-list {
+    line-height: 28px;
+    font-size: 24px;
+    font-weight: normal;
+    color: #FFFFFF;
+    margin: 0;
+    padding-left: 0;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+  }

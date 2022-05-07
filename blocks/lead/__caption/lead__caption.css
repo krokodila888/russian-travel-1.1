@@ -4,6 +4,17 @@
   font-weight: 400;
   padding-top: 8px;
   margin: 0;
-  max-width: 158px;
   align-self: flex-start;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+}
+
+@media screen and (max-width: 1023px) {
+  .lead__caption {
+    padding-left: 24px;}
+}
+
+@media screen and (max-width: 767px) {
+  .lead__caption {
+    padding-left: 16px;}
 }

@@ -4,14 +4,18 @@
   line-height: 76px;
   text-align: center;
   color: #FFFFFF;
-  margin: 0 312px;
-  z-index: 10;
+  z-index: 2;
+  margin: 0;
+  padding: 0;
   max-width: 560px;
-  text-decoration: none;
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-self: center;
 }
 
 @media screen and (max-width: 767px) {
   .cover__title {
     font-size: 32px;
-  line-height: 35px;}
+    line-height: 35px;}
 }

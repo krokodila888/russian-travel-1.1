@@ -3,9 +3,10 @@
   font-size: 24px;
   font-weight: 400;
   color: #FFFFFF;
-  padding-right: 18px;
   text-decoration-color: #2A2C2F;
 }
+
+
 
 .header__lang-link:hover {
   opacity: 0.8;

@@ -4,12 +4,18 @@
   font-weight: 400;
   margin: 0;
   padding-bottom: 64px;
-  max-height: 72px;
   max-width: 640px;
   text-align: center;
 }
 
+@media screen and (max-width: 1279px) {
+  .lead__subtitle {
+    padding-bottom: 56px;}
+}
+
 @media screen and (max-width: 767px) {
   .lead__subtitle {
-    padding-bottom: 40px;}
+    padding-bottom: 40px;
+    font-size: 16px;
+    line-height: 20px}
 }
