@@ -3,7 +3,7 @@
   font-size: 18px;
   line-height: 163%;
   margin: 0;
-  padding-bottom: 20px;
+  padding-bottom: 26px;
 }
 
 .place__paragraph:last-child {
@@ -12,5 +12,6 @@
 
 @media screen and (max-width: 1023px) {
   .place__paragraph {
-  font-size: 16px;}
+  font-size: 16px;
+  padding-bottom: 25px;}
 }
